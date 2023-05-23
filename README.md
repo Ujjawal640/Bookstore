@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+<img width="856" alt="image" src="https://github.com/Ujjawal640/Bookstore/assets/82695694/00ebb89c-5786-4615-a97f-766500bf0b8c">
+
+
 
 ### `npm start`
 
