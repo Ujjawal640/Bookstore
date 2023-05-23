@@ -9,7 +9,7 @@ The Project's UI:
 
 
 <img width="856" alt="image" src="https://github.com/Ujjawal640/Bookstore/blob/main/ui1.png">
-<img width="856" alt="Screenshot 2023-05-23 062322" src="https://github.com/Ujjawal640/Bookstore/assets/82695694/1468f0e4-d90a-45ca-8b86-f65ff9550f87">
+<img width="856" alt="Screenshot 2023-05-23 062322" src="https://github.com/Ujjawal640/Bookstore/blob/main/ui2.png">
 
 
 In the project directory, you can run:
